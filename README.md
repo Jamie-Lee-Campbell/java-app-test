@@ -1,4 +1,6 @@
-##### build the project
+##### TEST JAVA APP
+
+##### Build the project
 
     ./gradlew build
 
